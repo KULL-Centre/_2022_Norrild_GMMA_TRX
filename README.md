@@ -3,7 +3,7 @@ Increasing protein stability by inferring substitution effects from high-through
 
 # Directories
 
-- **scripts**: Code used for processing FASTQ files
+- **variant_call_scripts**: Code mentioned in the article used for processing FASTQ files
 - **Data**: Processsed data from the CPOP screen and computational evaluations
 - **GMMA**: Software, input and output files. The analysis is implemented in R and split into 5 scripts (gmma01-gmma05), see run.sh. The excel file trx_gmma.xlsx contains all 3 output files residue.txt, subst.csv and mutant.csv.
 - **NanoDSF**: Data and code for stability measurements
