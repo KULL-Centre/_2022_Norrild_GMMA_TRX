@@ -1,5 +1,5 @@
 # _2022_Norrild_GMMA_TRX
-Increasing protein stability by inferring substitution effects from high-throughput experiments
+Scripts and output from "Increasing protein stability by inferring substitution effects from high-throughput experiments" by Rasmus K. Norrild, Kristoffer E. Johansson, Charlotte O’Shea, Jens Preben Morth, Kresten Lindorff-Larsen and Jakob R. Winther
 
 # Directories
 
